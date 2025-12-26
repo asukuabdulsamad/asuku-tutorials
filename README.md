@@ -1,2 +1,2 @@
-# Asuku_tutorials
+# Asuku-tutorials
 Tutorials on OpenMC
